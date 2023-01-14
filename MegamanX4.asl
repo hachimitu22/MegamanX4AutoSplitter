@@ -173,6 +173,7 @@ split {
 		if(current.stageID == 0x06) {
 			if(current.stageSubID == 0x01
 			&& current.spawnPointID == 0x01
+			&& current.characterPointX > 960
 			&& current.characterMovable == 0x01
 			){
 				vars.isBossFighting = true;
