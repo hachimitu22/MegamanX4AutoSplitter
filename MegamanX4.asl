@@ -147,7 +147,8 @@ split {
 		// BIO LABORATORY
 		if(current.stageID == 0x03) {
 			if(current.stageSubID == 0x01
-			&& current.spawnPointID == 0x03
+			&& current.spawnPointID >= 0x02
+			&& current.characterPointY <= 460.0
 			&& current.characterMovable == 0x01
 			){
 				vars.isBossFighting = true;
