@@ -22,3 +22,29 @@
 
 - [ ] HPが0になってもラップを切らない。
 - [ ] セーブ画面に遷移してもラップを切らない。
+
+# English
+transform from DeepL
+
+## How to install
+
+1. download `MegamanX4.asl` from Release. 2.
+2. add `Control > Scriptable Auto Splitter` from `Edit Layout` of LiveSplit. 3.
+Specify `MegamanX4.asl` in `Script Path`.
+
+## Confirmation of operation
+
+|      category       | Rockman X Anniversary Collection | Megaman X Legacy Collection |
+| ------------------- | -------------------------------- | --------------------------- |
+| X 100%              | OK                               | Unconfirmed                 |
+| Zero 100%           | OK                               | Unconfirmed                 |
+| X Any%              | Unconfirmed                      | Unconfirmed                 |
+| Zero Any%           | Unconfirmed                      | Unconfirmed                 |
+| X Low%              | Unconfirmed                      | Unconfirmed                 |
+| Buster Only Any%    | Unconfirmed                      | Unconfirmed                 |
+| Ultimate Armor Any% | Unconfirmed                      | Unconfirmed                 |
+
+## Assignment
+
+- [ ] Do not cut the wrap when HP reaches 0.
+- [ ] Do not break your wrap when you move to the save screen.
