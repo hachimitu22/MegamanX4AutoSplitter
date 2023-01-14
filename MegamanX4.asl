@@ -59,16 +59,6 @@ startup {
 		}
 		settings.SetToolTip(entry.Item1, entry.Item5);
 	}
-
-	vars.splitSceneSequenceConditions = new List<Tuple<int, string>>
-	{
-		Tuple.Create(0x00000006, "split: start playing"),
-		Tuple.Create(0x0000000D, "split: NOW LOADING stage"),
-		Tuple.Create(0x00000007, "split: NOW LOADING weapon introduction"),
-		// Tuple.Create(0x0107, "split: sceneSequence 0x0107"),
-		Tuple.Create(0x00000103, "split: NOW LOADING stage select"),
-		Tuple.Create(0x00000109, "split: MISSION COMPLETED")
-	};
 }
 
 start {
@@ -84,15 +74,34 @@ reset {
 }
 
 split {
-	if(old.sceneSequence != 0x0206) {
-		foreach(var condition in vars.splitSceneSequenceConditions) {
-			ushort value = (ushort)condition.Item1;
-			string message = condition.Item2;
-			if (old.sceneSequence != value && current.sceneSequence == value) {
-				print(message);
+	// scene change
+	{
+		if (old.sceneSequence != 0x0006 && current.sceneSequence == 0x0006) {
+			if (old.sceneSequence != 0x0206) {
+				print("split: start playing");
 				vars.isBossFighting = false;
 				return true;
 			}
+		}
+		if (old.sceneSequence != 0x000D && current.sceneSequence == 0x000D) {
+			print("split: NOW LOADING stage");
+			vars.isBossFighting = false;
+			return true;
+		}
+		if (old.sceneSequence != 0x0007 && current.sceneSequence == 0x0007) {
+			print("split: NOW LOADING weapon introduction");
+			vars.isBossFighting = false;
+			return true;
+		}
+		if (old.sceneSequence != 0x0103 && current.sceneSequence == 0x0103) {
+			print("split: NOW LOADING stage select");
+			vars.isBossFighting = false;
+			return true;
+		}
+		if (old.sceneSequence != 0x0109 && current.sceneSequence == 0x0109) {
+			print("split: MISSION COMPLETED");
+			vars.isBossFighting = false;
+			return true;
 		}
 	}
 
