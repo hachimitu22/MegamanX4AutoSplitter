@@ -394,6 +394,28 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
+      <ID>537</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>A6</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>538</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>A7</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
       <ID>246</ID>
       <Description>"ゲートフラグ"</Description>
       <ShowAsHex>1</ShowAsHex>
@@ -402,6 +424,127 @@
       <Address>"RXC1.exe"+0179B114</Address>
       <Offsets>
         <Offset>A8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>539</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>A9</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>540</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>AA</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>541</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>AB</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>542</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>AC</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>543</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>AD</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>544</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>AE</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>545</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>AF</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>546</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>B0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>547</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>B1</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>548</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>B2</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>549</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>B3</Offset>
       </Offsets>
     </CheatEntry>
     <CheatEntry>
@@ -640,6 +783,124 @@
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
+      <ID>551</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>B6</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>552</ID>
+      <Description>"ステージ中会話フラグ"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>B7</Offset>
+      </Offsets>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>554</ID>
+          <Description>"00: 会話中"</Description>
+          <GroupHeader>1</GroupHeader>
+          <Address/>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>555</ID>
+          <Description>"01: 非会話中"</Description>
+          <GroupHeader>1</GroupHeader>
+          <Address/>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>553</ID>
+      <Description>"boss pointer"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>B8</Offset>
+      </Offsets>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>559</ID>
+          <Description>"ボス爆破後に00000000になる"</Description>
+          <GroupHeader>1</GroupHeader>
+          <Address/>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>557</ID>
+          <Description>"00000000のときはボスが生成されるとポインタがセットされる"</Description>
+          <GroupHeader>1</GroupHeader>
+          <Address/>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>560</ID>
+      <Description>"ボスHP表示フラグ"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>BC</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>561</ID>
+      <Description>"ボスHPマーク種別"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>BD</Offset>
+      </Offsets>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>563</ID>
+          <Description>"00: シグマ"</Description>
+          <GroupHeader>1</GroupHeader>
+          <Address/>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>564</ID>
+          <Description>"01: レプリフォース"</Description>
+          <GroupHeader>1</GroupHeader>
+          <Address/>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>565</ID>
+          <Description>"02: 中ボス(ドクロ)"</Description>
+          <GroupHeader>1</GroupHeader>
+          <Address/>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>562</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Array of byte</VariableType>
+      <ByteLength>8</ByteLength>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>BE</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
       <ID>180</ID>
       <Description>"キャラセレカーソル位置"</Description>
       <Options moManualExpandCollapse="1"/>
@@ -664,6 +925,96 @@
           <Address/>
         </CheatEntry>
       </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>524</ID>
+      <Description>"隠しコマンド完了状態"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>C6</Offset>
+      </Offsets>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>528</ID>
+          <Description>"00: コマンドなし"</Description>
+          <GroupHeader>1</GroupHeader>
+          <Address/>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>525</ID>
+          <Description>"X"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <GroupHeader>1</GroupHeader>
+          <Address/>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>526</ID>
+              <Description>"01: 〇2回、左6回入力中"</Description>
+              <GroupHeader>1</GroupHeader>
+              <Address/>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>527</ID>
+              <Description>"02: 〇2回、左6回完了"</Description>
+              <GroupHeader>1</GroupHeader>
+              <Address/>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>529</ID>
+          <Description>"ZERO"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <GroupHeader>1</GroupHeader>
+          <Address/>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>531</ID>
+              <Description>"01: R1押しながら右6回入力中"</Description>
+              <GroupHeader>1</GroupHeader>
+              <Address/>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>533</ID>
+              <Description>"02: R1押しながら右6回入力完了"</Description>
+              <GroupHeader>1</GroupHeader>
+              <Address/>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>534</ID>
+              <Description>"03: R1押しながら右6回入力完了後R1放し"</Description>
+              <GroupHeader>1</GroupHeader>
+              <Address/>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>535</ID>
+      <Description>"unknown"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>C7</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>536</ID>
+      <Description>"隠しコマンド入力回数"</Description>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Byte</VariableType>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>C8</Offset>
+      </Offsets>
     </CheatEntry>
     <CheatEntry>
       <ID>315</ID>
@@ -3287,9 +3638,60 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>E24</Offset>
+            <Offset>DA0</Offset>
           </Offsets>
           <CheatEntries>
+            <CheatEntry>
+              <ID>456</ID>
+              <Description>"ID"</Description>
+              <ShowAsHex>1</ShowAsHex>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>2 Bytes</VariableType>
+              <Address>"RXC1.exe"+0179B114</Address>
+              <Offsets>
+                <Offset>DA8</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>460</ID>
+              <Description>"pointX target"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>"RXC1.exe"+0179B114</Address>
+              <Offsets>
+                <Offset>DB4</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>458</ID>
+              <Description>"pointY target"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>"RXC1.exe"+0179B114</Address>
+              <Offsets>
+                <Offset>DBC</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>457</ID>
+              <Description>"pointX current"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>"RXC1.exe"+0179B114</Address>
+              <Offsets>
+                <Offset>DD0</Offset>
+              </Offsets>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>459</ID>
+              <Description>"pointY current"</Description>
+              <ShowAsSigned>0</ShowAsSigned>
+              <VariableType>Float</VariableType>
+              <Address>"RXC1.exe"+0179B114</Address>
+              <Offsets>
+                <Offset>DD8</Offset>
+              </Offsets>
+            </CheatEntry>
             <CheatEntry>
               <ID>406</ID>
               <Description>"enemy HP target"</Description>
@@ -3323,7 +3725,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>F1C</Offset>
+            <Offset>DA0 + F8</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3335,7 +3737,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>1014</Offset>
+            <Offset>1014-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3347,7 +3749,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>110C</Offset>
+            <Offset>110C-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3359,7 +3761,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>1204</Offset>
+            <Offset>1204-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3371,7 +3773,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>12FC</Offset>
+            <Offset>12FC-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3383,7 +3785,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>13F4</Offset>
+            <Offset>13F4-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3395,7 +3797,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>14EC</Offset>
+            <Offset>14EC-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3407,7 +3809,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>15E4</Offset>
+            <Offset>15E4-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3419,7 +3821,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>16DC</Offset>
+            <Offset>16DC-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3431,7 +3833,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>17D4</Offset>
+            <Offset>17D4-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3443,7 +3845,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>18CC</Offset>
+            <Offset>18CC-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3455,7 +3857,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>19C4</Offset>
+            <Offset>19C4-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3467,7 +3869,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>1ABC</Offset>
+            <Offset>1ABC-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3479,7 +3881,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>1BB4</Offset>
+            <Offset>1BB4-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3491,7 +3893,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>1CAC</Offset>
+            <Offset>1CAC-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3503,7 +3905,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>1DA4</Offset>
+            <Offset>1DA4-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3515,7 +3917,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>1E9C</Offset>
+            <Offset>1E9C-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3527,7 +3929,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>1F94</Offset>
+            <Offset>1F94-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3539,7 +3941,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>208C</Offset>
+            <Offset>208C-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3551,7 +3953,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>2184</Offset>
+            <Offset>2184-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3563,7 +3965,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>227C</Offset>
+            <Offset>227C-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3575,7 +3977,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>2374</Offset>
+            <Offset>2374-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3587,7 +3989,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>246C</Offset>
+            <Offset>246C-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3599,7 +4001,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>2564</Offset>
+            <Offset>2564-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3611,7 +4013,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>265C</Offset>
+            <Offset>265C-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3623,7 +4025,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>2754</Offset>
+            <Offset>2754-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3635,7 +4037,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>284C</Offset>
+            <Offset>284C-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3647,7 +4049,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>2944</Offset>
+            <Offset>2944-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3659,7 +4061,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>2A3C</Offset>
+            <Offset>2A3C-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3671,7 +4073,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>2B34</Offset>
+            <Offset>2B34-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3683,7 +4085,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>2C2C</Offset>
+            <Offset>2C2C-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3695,7 +4097,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>2D24</Offset>
+            <Offset>2D24-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3707,7 +4109,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>2E1C</Offset>
+            <Offset>2E1C-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3719,7 +4121,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>2F14</Offset>
+            <Offset>2F14-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3731,7 +4133,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>300C</Offset>
+            <Offset>300C-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3743,7 +4145,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>3104</Offset>
+            <Offset>3104-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3755,7 +4157,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>31FC</Offset>
+            <Offset>31FC-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3767,7 +4169,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>32F4</Offset>
+            <Offset>32F4-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3779,7 +4181,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>33EC</Offset>
+            <Offset>33EC-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3791,7 +4193,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>34E4</Offset>
+            <Offset>34E4-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3803,7 +4205,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>35DC</Offset>
+            <Offset>35DC-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3815,7 +4217,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>36D4</Offset>
+            <Offset>36D4-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3827,7 +4229,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>37CC</Offset>
+            <Offset>37CC-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3839,7 +4241,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>38C4</Offset>
+            <Offset>38C4-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3851,7 +4253,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>39BC</Offset>
+            <Offset>39BC-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3863,7 +4265,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>3AB4</Offset>
+            <Offset>3AB4-84</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3875,19 +4277,7 @@
           <ByteLength>248</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>3BAC</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>455</ID>
-          <Description>"enemy49"</Description>
-          <ShowAsHex>1</ShowAsHex>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>Array of byte</VariableType>
-          <ByteLength>248</ByteLength>
-          <Address>"RXC1.exe"+0179B114</Address>
-          <Offsets>
-            <Offset>3CA4</Offset>
+            <Offset>3BAC-84</Offset>
           </Offsets>
         </CheatEntry>
       </CheatEntries>
@@ -3900,7 +4290,7 @@
       <GroupHeader>1</GroupHeader>
       <Address>"RXC1.exe"+0179B114</Address>
       <Offsets>
-        <Offset>3c28</Offset>
+        <Offset>3C20</Offset>
       </Offsets>
       <CheatEntries>
         <CheatEntry>
@@ -3912,7 +4302,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>3C28</Offset>
+            <Offset>3C20</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3924,7 +4314,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>3D1C</Offset>
+            <Offset>3D14</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3936,7 +4326,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>3E10</Offset>
+            <Offset>3E08</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3948,7 +4338,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>3F04</Offset>
+            <Offset>3EFC</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3960,7 +4350,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>3FF8</Offset>
+            <Offset>3FF0</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3972,7 +4362,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>40EC</Offset>
+            <Offset>40E4</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3984,7 +4374,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>41E0</Offset>
+            <Offset>41D8</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -3996,7 +4386,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>42D4</Offset>
+            <Offset>42CC</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4008,7 +4398,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>43C8</Offset>
+            <Offset>43C0</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4020,7 +4410,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>44BC</Offset>
+            <Offset>44B4</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4032,7 +4422,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>45B0</Offset>
+            <Offset>45A8</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4044,7 +4434,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>46A4</Offset>
+            <Offset>469C</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4056,7 +4446,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>4798</Offset>
+            <Offset>4790</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4068,7 +4458,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>488C</Offset>
+            <Offset>4884</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4080,7 +4470,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>4980</Offset>
+            <Offset>4978</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4092,19 +4482,19 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>4A74</Offset>
+            <Offset>4A6C</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
           <ID>371</ID>
-          <Description>"バスター17"</Description>
+          <Description>"バスター17 enemy"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Array of byte</VariableType>
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>4B68</Offset>
+            <Offset>4B60</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4116,7 +4506,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>4C5C</Offset>
+            <Offset>4C54</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4128,7 +4518,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>4D50</Offset>
+            <Offset>4D48</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4140,7 +4530,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>4E44</Offset>
+            <Offset>4E3C</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4152,7 +4542,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>4F38</Offset>
+            <Offset>4F30</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4164,7 +4554,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>502C</Offset>
+            <Offset>5024</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4176,7 +4566,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>5120</Offset>
+            <Offset>5118</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4188,7 +4578,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>5214</Offset>
+            <Offset>520C</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4200,7 +4590,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>5308</Offset>
+            <Offset>5300</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4212,7 +4602,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>53FC</Offset>
+            <Offset>53F4</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4224,7 +4614,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>54F0</Offset>
+            <Offset>54E8</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4236,7 +4626,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>55E4</Offset>
+            <Offset>55DC</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4248,7 +4638,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>56D8</Offset>
+            <Offset>56D0</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4260,7 +4650,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>57CC</Offset>
+            <Offset>57C4</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4272,7 +4662,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>58C0</Offset>
+            <Offset>58B8</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4284,7 +4674,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>59B4</Offset>
+            <Offset>59AC</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4296,7 +4686,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>5AA8</Offset>
+            <Offset>5AA0</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4308,7 +4698,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>5B9C</Offset>
+            <Offset>5B94</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4320,7 +4710,7 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>5C90</Offset>
+            <Offset>5C88</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4332,23 +4722,11 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>5D84</Offset>
+            <Offset>5D7C</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
           <ID>392</ID>
-          <Description>"バスター36"</Description>
-          <ShowAsHex>1</ShowAsHex>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>Array of byte</VariableType>
-          <ByteLength>244</ByteLength>
-          <Address>"RXC1.exe"+0179B114</Address>
-          <Offsets>
-            <Offset>5E78</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>393</ID>
           <Description>"バスター37"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
@@ -4356,11 +4734,11 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>5F6C</Offset>
+            <Offset>5E70</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>394</ID>
+          <ID>393</ID>
           <Description>"バスター38"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
@@ -4368,11 +4746,11 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>6060</Offset>
+            <Offset>5F64</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>395</ID>
+          <ID>394</ID>
           <Description>"バスター39"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
@@ -4380,11 +4758,11 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>6154</Offset>
+            <Offset>6058</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>396</ID>
+          <ID>395</ID>
           <Description>"バスター40"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
@@ -4392,11 +4770,11 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>6248</Offset>
+            <Offset>614C</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>397</ID>
+          <ID>396</ID>
           <Description>"バスター41"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
@@ -4404,11 +4782,11 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>633C</Offset>
+            <Offset>6240</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>398</ID>
+          <ID>397</ID>
           <Description>"バスター42"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
@@ -4416,11 +4794,11 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>6430</Offset>
+            <Offset>6334</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>399</ID>
+          <ID>398</ID>
           <Description>"バスター43"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
@@ -4428,11 +4806,11 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>6524</Offset>
+            <Offset>6428</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>400</ID>
+          <ID>399</ID>
           <Description>"バスター44"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
@@ -4440,11 +4818,11 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>6618</Offset>
+            <Offset>651C</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>401</ID>
+          <ID>400</ID>
           <Description>"バスター45"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
@@ -4452,11 +4830,11 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>670C</Offset>
+            <Offset>6610</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>402</ID>
+          <ID>401</ID>
           <Description>"バスター46"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
@@ -4464,11 +4842,11 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>6800</Offset>
+            <Offset>6704</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>403</ID>
+          <ID>402</ID>
           <Description>"バスター47"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
@@ -4476,19 +4854,44 @@
           <ByteLength>244</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>68F4</Offset>
+            <Offset>67F8</Offset>
           </Offsets>
         </CheatEntry>
+        <CheatEntry>
+          <ID>403</ID>
+          <Description>"バスター48"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>244</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>68EC</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>491</ID>
+      <Description>"エフェクト"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <GroupHeader>1</GroupHeader>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>69E0</Offset>
+      </Offsets>
+      <CheatEntries>
         <CheatEntry>
           <ID>404</ID>
           <Description>"エフェクト1"</Description>
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Array of byte</VariableType>
-          <ByteLength>96</ByteLength>
+          <ByteLength>192</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>69E8</Offset>
+            <Offset>69E0</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
@@ -4497,10 +4900,621 @@
           <ShowAsHex>1</ShowAsHex>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Array of byte</VariableType>
-          <ByteLength>96</ByteLength>
+          <ByteLength>192</ByteLength>
           <Address>"RXC1.exe"+0179B114</Address>
           <Offsets>
-            <Offset>69E8 + C0</Offset>
+            <Offset>69E8 + B8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>461</ID>
+          <Description>"エフェクト3"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>6B60</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>462</ID>
+          <Description>"エフェクト4"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>6C20</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>463</ID>
+          <Description>"エフェクト5"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>6CE0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>464</ID>
+          <Description>"エフェクト6"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>6DA0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>465</ID>
+          <Description>"エフェクト7"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>6E60</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>466</ID>
+          <Description>"エフェクト8"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>6F20</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>467</ID>
+          <Description>"エフェクト9"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>6FE0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>468</ID>
+          <Description>"エフェクト10"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>70A0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>469</ID>
+          <Description>"エフェクト11"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>7160</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>470</ID>
+          <Description>"エフェクト12"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>7220</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>471</ID>
+          <Description>"エフェクト13"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>72E0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>472</ID>
+          <Description>"エフェクト14"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>73A0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>473</ID>
+          <Description>"エフェクト15"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>7460</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>474</ID>
+          <Description>"エフェクト16"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>7520</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>475</ID>
+          <Description>"エフェクト17"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>75E0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>476</ID>
+          <Description>"エフェクト18"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>76A0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>477</ID>
+          <Description>"エフェクト19"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>7760</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>478</ID>
+          <Description>"エフェクト20"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>7820</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>479</ID>
+          <Description>"エフェクト21"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>78E0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>480</ID>
+          <Description>"エフェクト22"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>79A0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>481</ID>
+          <Description>"エフェクト23"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>7A60</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>482</ID>
+          <Description>"エフェクト24"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>7B20</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>483</ID>
+          <Description>"エフェクト25"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>7BE0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>484</ID>
+          <Description>"エフェクト26"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>7CA0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>485</ID>
+          <Description>"エフェクト27"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>7D60</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>486</ID>
+          <Description>"エフェクト28"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>7E20</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>487</ID>
+          <Description>"エフェクト29"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>7EE0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>488</ID>
+          <Description>"エフェクト30"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>7FA0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>489</ID>
+          <Description>"エフェクト31"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>8060</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>490</ID>
+          <Description>"エフェクト32"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Array of byte</VariableType>
+          <ByteLength>192</ByteLength>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>8120</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>504</ID>
+      <Description>"unknown"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <ShowAsHex>1</ShowAsHex>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Array of byte</VariableType>
+      <ByteLength>12</ByteLength>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>81E8</Offset>
+      </Offsets>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>493</ID>
+          <Description>"ゲーム中？フラグ"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>81E8</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>509</ID>
+              <Description>"00"</Description>
+              <Options moManualExpandCollapse="1"/>
+              <GroupHeader>1</GroupHeader>
+              <Address/>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>505</ID>
+                  <Description>"CAPCOMムービー"</Description>
+                  <GroupHeader>1</GroupHeader>
+                  <Address/>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>515</ID>
+                  <Description>"負けない愛がきっとある"</Description>
+                  <GroupHeader>1</GroupHeader>
+                  <Address/>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>507</ID>
+                  <Description>"START後ロード"</Description>
+                  <GroupHeader>1</GroupHeader>
+                  <Address/>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>517</ID>
+                  <Description>"キャラセレ後ロード"</Description>
+                  <GroupHeader>1</GroupHeader>
+                  <Address/>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>516</ID>
+                  <Description>"ステージ選択後ロード"</Description>
+                  <GroupHeader>1</GroupHeader>
+                  <Address/>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>508</ID>
+                  <Description>"MISSION COMPLETED"</Description>
+                  <GroupHeader>1</GroupHeader>
+                  <Address/>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>510</ID>
+              <Description>"01"</Description>
+              <Options moManualExpandCollapse="1"/>
+              <GroupHeader>1</GroupHeader>
+              <Address/>
+              <CheatEntries>
+                <CheatEntry>
+                  <ID>511</ID>
+                  <Description>"00以外すべて"</Description>
+                  <GroupHeader>1</GroupHeader>
+                  <Address/>
+                </CheatEntry>
+              </CheatEntries>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>518</ID>
+          <Description>"unknown"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>81E9</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>519</ID>
+          <Description>"unknown"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>81EA</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>520</ID>
+          <Description>"unknown"</Description>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>81EB</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>521</ID>
+          <Description>"ステージ中フラグ"</Description>
+          <Options moManualExpandCollapse="1"/>
+          <ShowAsHex>1</ShowAsHex>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Byte</VariableType>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>81EC</Offset>
+          </Offsets>
+          <CheatEntries>
+            <CheatEntry>
+              <ID>522</ID>
+              <Description>"00: 01以外すべて"</Description>
+              <GroupHeader>1</GroupHeader>
+              <Address/>
+            </CheatEntry>
+            <CheatEntry>
+              <ID>523</ID>
+              <Description>"01: ステージ開始から武器紹介ロード完了まで"</Description>
+              <GroupHeader>1</GroupHeader>
+              <Address/>
+            </CheatEntry>
+          </CheatEntries>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>494</ID>
+      <Description>"カメラ"</Description>
+      <Options moManualExpandCollapse="1"/>
+      <ShowAsSigned>0</ShowAsSigned>
+      <GroupHeader>1</GroupHeader>
+      <Address>"RXC1.exe"+0179B114</Address>
+      <Offsets>
+        <Offset>81F4</Offset>
+      </Offsets>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>503</ID>
+          <Description>"X軸"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>81F4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>495</ID>
+          <Description>"unknown"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>81F8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>496</ID>
+          <Description>"Y軸"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>81FC</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>497</ID>
+          <Description>"unknown"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>8200</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>498</ID>
+          <Description>"unknown"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>8204</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>499</ID>
+          <Description>"unknown"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>8208</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>500</ID>
+          <Description>"X軸"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>820C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>501</ID>
+          <Description>"unknown"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>8210</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>502</ID>
+          <Description>"Y軸"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Float</VariableType>
+          <Address>"RXC1.exe"+0179B114</Address>
+          <Offsets>
+            <Offset>8214</Offset>
           </Offsets>
         </CheatEntry>
       </CheatEntries>
